@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
@@ -23,3 +24,7 @@ docker-compose up  -d
 * MongoDB
 * Nest
 
+=======
+# POKEDEX-NEST
+TEST BACKEND SERVER USING NEST AND MONGODB
+>>>>>>> ac8b40ac74a8ca5b266e2020957b1afb34f29f3c
